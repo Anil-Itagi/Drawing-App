@@ -1,2 +1,2 @@
-# Painting-tool
-Painting and Editing box
+# Drawing App
+Painting and Edit
