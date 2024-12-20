@@ -8,6 +8,8 @@ const ctx = canvas.getContext('2d');
 let size = 10
 let isPressed = false
 colorEl.value = 'black'
+
+//  This is the drawing app
 let color = colorEl.value
 let x
 let y
